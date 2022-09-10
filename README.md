@@ -4,7 +4,7 @@ Bot De Telegram : TGUploaderV12, Descargador gratis de contenido desde internet 
 # Deploy Usando Git Win Y Heroku Cli Desde PC
 ```
 (CMD)
-git clone https://github.com/Yilvanh/v133 
+git clone https://github.com/stormleshrac/asadasd.git
 git init
 git add .
 git commit -m "OK"
