@@ -323,7 +323,8 @@ def onmessage(update,bot:ObigramClient):
                     print(str(ex))
                     reply_markup = inlineKeyboardMarkup(r1=[inlineKeyboardButton('⚗Recuperar Estado⚗', callback_data='/update '+token+' '+filename)])
                     bot.editMessageText(message,'🚫ERROR EN EL ESTADO🚫',reply_markup=reply_markup)
-            
+            else:
+                bot.editMessageText(message,'🚫USTED NO PUEDE SUBIR!🚫')
         else:
             #if update:
             #    api_id = os.environ.get('api_id')
