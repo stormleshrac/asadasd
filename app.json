@@ -1,7 +1,7 @@
 {
   "name": "TGUploaderV13",
   "description": "Bot De Telegram : TGUploaderV13, Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba",
-  "repository": "https://github.com/stormleshrac/asadasd.git", 
+  "repository": "https://github.com/ObisoftDev/tguploaderpro", 
   "env": {
     "bot_token": {
       "description": "El token del bot"
